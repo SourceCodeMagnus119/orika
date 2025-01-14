@@ -1,0 +1,22 @@
+{
+  "name": "orika",
+  "version": "1.0.0",
+  "main": "cl_e.js",
+  "bin": {
+    "cd-helper": "./cl_e.js"
+  },
+  "scripts": {
+    "cli": "node cl_e.js"
+  },
+  "keywords": [],
+  "author": "PAUL JH GOWASEB <SourceCodeMagnus119>",
+  "license": "Apache-2.0",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.0.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^12.3.2"
+  }
+}
